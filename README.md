@@ -32,11 +32,13 @@ Senior build and Release Engineer: HP (Sunnyvale, California, USA). October 2010
  
  
 Summer Intern:
--TIBCO (Palo Alto, USA)  2010  Software Engineer Intern 
--VMware (Palo Alto, USA) 2009  Software Configuration Engineer Intern
+
+- TIBCO (Palo Alto, USA)  2010  Software Engineer Intern 
+- VMware (Palo Alto, USA) 2009  Software Configuration Engineer Intern
  
  
 Education: 
+
 Master Degree in Computer Science, 2008-2009 Oklahoma City University (USA), GPA 3.98.  “High Honors” Graduated student.  
 
 Certificate:
