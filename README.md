@@ -7,6 +7,7 @@ I have more than 12 years of work experience as a software build and release eng
  
  
 Work Experience: 
+
 Lead build and Release Engineer: VUDU (Walmart, Nbcu) (Sunnyvale, California, USA). November 2014 – now. 
 - Continuously install, maintain, configure and improve VUDU's CI/CD process and tools in seven years.
 - Create and Setup the first Jenkins/Nexus/Perforce  CICD Build system for VUDU iOS and Android build projects  
