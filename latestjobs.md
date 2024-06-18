@@ -1,6 +1,6 @@
 main daily jobs:
 
--Set up and maintained the source code control, automated build, automated testing, and automated deployment CI/CD system.
+- Set up and maintained the source code control, automated build, automated testing, and automated deployment CI/CD system.
 
 2014-2020:
 
