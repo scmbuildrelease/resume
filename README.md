@@ -9,7 +9,7 @@ I have more than 14 years of work experience as a software build and release eng
  
 Work Experience:
 
-Build and Release Manager: VUDU (Walmart, Nbcu) (Sunnyvale, California, USA). November 2014 – now. 
+Build and Release Manager:   ( California, USA). November 2014 – now. 
 
 - Continuously install, maintain, configure and improve VUDU's CI/CD process and tools in ten years.
 - Create and Setup the first Jenkins/Nexus/Perforce  CICD Build system for VUDU iOS and Android build projects 
@@ -27,7 +27,7 @@ Build and Release Manager: VUDU (Walmart, Nbcu) (Sunnyvale, California, USA). No
 - Keywords : Jenkins, groovy, Docker, Python,Perforce, Buildbot, Nexus, Gitswarm, Gitfusion, Bitbucket, Mesos, AWS, Jira, Confluence, CI/CD, Linux, Mac, Windows, Veracode, SCM, Build, Release, make, Ant,gradle, mvn, Ansible
 
   
-Senior build and Release Engineer: HP (Sunnyvale, California, USA). October 2010 – November 2014 
+Senior build and Release Engineer:   ( California, USA). October 2010 – November 2014 
 
 - Perforce, SVN, Jenkins technical Support, create branches for the software projects
 - Write Perl, shell, Java and batch files to support the automated builds
@@ -35,11 +35,11 @@ Senior build and Release Engineer: HP (Sunnyvale, California, USA). October 2010
 
   
 Summer Intern:
-TIBCO (Palo Alto, USA)  2010  Software Engineer Intern
-VMware (Palo Alto, USA) 2009  Software Configuration Engineer Intern
+  ( USA) 2010  Software Engineer Intern
+  ( USA) 2009  Software Configuration Engineer Intern
 
 Education:
-Master Degree in Computer Science, 2008-2009 Oklahoma City University (USA), GPA 3.98.  “High Honors” Graduated student. 
+Master Degree in Computer Science, 2008-2009     University (USA), GPA 3.98.  “High Honors” Graduated student. 
 
 Certificate:
 MCSE, HP-UNIX administrator, ISO9000 Auditor and PMP (Project Management Professional)
