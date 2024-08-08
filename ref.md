@@ -1,4 +1,4 @@
- I am writing to highly recommend Iris for the position of Software Build and Release Engineer. Having been a close associate of hers for many years, I have observed her accumulate over 15 years of experience in this field, making her an exceptionally qualified candidate.
+I am writing to highly recommend Iris for the position of Software Build and Release Engineer. Having been a close associate of hers for many years, I have observed her accumulate over 15 years of experience in this field, making her an exceptionally qualified candidate.
 
 Iris has a specialized skill set in developing and optimizing CI/CD systems and processes, ensuring they function with maximum efficiency and reliability. Her ability to quickly adapt to and enhance existing CI/CD systems is complemented by her adept management of daily build tagging, snapshotting, branching jobs, and weekly software rollouts.
 
